@@ -1,0 +1,63 @@
+@font-face
+{
+    font-family: "Comforter";
+    src: url("../font/Comforter-Regular.ttf");
+}
+
+@font-face
+{
+    font-family: "TTMussels";
+    src: url("../font/TTMussels-Regular.ttf");
+}
+
+h1
+{
+    font-family: "Comforter";
+    font-size: 50px;
+    text-align: center;
+    font-weight: 400px;
+    margin: auto;
+    padding: auto;
+}
+
+p
+{
+    font-family: "TTMussels";
+    font-size: 20px;
+    font-weight: 400px;
+    line-height: 2;
+    margin: auto;
+    padding: auto;
+}
+
+li
+{
+    font-family: "TTMussels";
+    font-size: 20px;
+    font-weight: 400px;
+    line-height: 2;
+    margin: auto;
+    padding: auto;
+}
+
+.marker_underscore_highlight
+{
+    background-color: coral;
+    text-decoration: underline;
+}
+
+.marker_highlight
+{
+    background-color: coral;
+}
+
+a
+{
+    color: coral;
+}
+
+b
+{
+    font-weight: 400px;
+    font-size: 28px;
+}

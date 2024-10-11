@@ -1,0 +1,64 @@
+h1
+{
+    color: white;
+    background-color: gray;
+    font-size: 50px;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
+
+p
+{
+    font-size: 20px;
+    line-height: 2;
+    margin: auto;
+    padding: auto;
+}
+
+li
+{
+    font-size: 20px;
+    line-height: 2;
+    margin: auto;
+    padding: auto;
+}
+
+.marker_underscore_highlight
+{
+    background-color: gray;
+    text-decoration: underline;
+}
+
+.marker_highlight
+{
+    background-color: gray;
+}
+
+a
+{
+    font-size: 28px;
+    color: coral;
+    border-radius: 10px;
+}
+
+b
+{
+    color: wheat;
+    font-size: 28px;
+    border-radius: 10px;
+}
+
+.ibm-plex-mono-bold 
+{
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.pacifico-regular 
+{
+    font-family: "Pacifico", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
